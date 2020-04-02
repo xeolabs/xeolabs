@@ -32,7 +32,9 @@ body {
 }
 
 .avatar {
-    border-radius: 100px;
+    border-radius: 50%;
+    width: 200px;
+    height: auto;
 }
 
 .logowall img {
@@ -520,4 +522,29 @@ span.clients-name {
 
 .fg_dark:hover {
     color: rgba(77, 88, 96, 0.55);
+}
+
+.flex-container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+/* to center flex-items */
+.flex-item {
+    margin: 20px;
+
+    margin-top: auto;
+    margin-right: 0;
+    margin-bottom: auto;
+    margin-left: 0;
+    width: auto;
+    max-width: 200px;
+    padding: 10px;
+}
+
+.usedby {
+    padding-top: 10px  !important;
+    padding-bottom: 10px  !important;
 }
