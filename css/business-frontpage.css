@@ -104,10 +104,11 @@ blockquote cite:before {
     transform: translate(-50%, -70%);
 }
 
-.used-by  {
+.used-by {
     width: 100%;
     height: auto;
 }
+
 .img-wrapper {
     position: relative;
 }
@@ -544,7 +545,19 @@ span.clients-name {
     padding: 10px;
 }
 
+.flex-item img {
+    filter: grayscale(100%);
+}
+
 .usedby {
-    padding-top: 10px  !important;
-    padding-bottom: 10px  !important;
+    /*padding-top: 10px !important;*/
+    /*padding-bottom: 10px !important;*/
+}
+
+.center-text {
+    text-align: center;
+}
+
+.border-2 {
+    border-width:2px !important;
 }
