@@ -541,7 +541,7 @@ span.clients-name {
     margin-bottom: auto;
     margin-left: 0;
     width: auto;
-    max-width: 200px;
+    max-width: 160px;
     padding: 10px;
 }
 
@@ -560,4 +560,41 @@ span.clients-name {
 
 .border-2 {
     border-width:2px !important;
+}
+
+
+#clients {
+    padding: 60px 0
+}
+
+#clients .clients-wrap {
+    border-top: 1px solid #d6eaff;
+    border-left: 1px solid #d6eaff;
+    margin-bottom: 0px
+}
+
+#clients .client-logo {
+    padding: 44px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    border-right: 1px solid #d6eaff;
+    border-bottom: 1px solid #d6eaff;
+    overflow: hidden;
+    background: #fff;
+    height: 130px
+}
+
+#clients img {
+    transition: all 0.4s ease-in-out;
+    /*filter: grayscale(100%);*/
 }
