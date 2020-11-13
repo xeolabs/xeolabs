@@ -1,6 +1,7 @@
 # xeolabs
 
-#### Browser-based solutions for 3D BIM, engineering and medical visualization
+Graphics Software for browser-based BIM, Engineering and Medicine
+
 <br><br>
 [xeolabs.com](http://xeolabs.com)
 <br><br>
