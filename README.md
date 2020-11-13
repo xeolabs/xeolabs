@@ -5,5 +5,5 @@ Browser-based solutions for 3D BIM, engineering and medical visualization
 [xeolabs.com](http://xeolabs.com)
 <br><br>
 
-![](https://xeolabs.com/img/human-mac.png)
+![](http://xeokit.io/img/xeokit-viewer.png)
 
