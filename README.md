@@ -1,6 +1,6 @@
 # xeolabs
 
-Graphics Software for Browser-Based BIM, Engineering and Medicine
+Open Source Graphics Software for Browser-Based BIM, Engineering and Medicine
 
 [xeolabs.com](http://xeolabs.com)
 
