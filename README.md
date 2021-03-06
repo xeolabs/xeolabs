@@ -1,6 +1,6 @@
 # xeolabs
 
-#### Browser-based 3D visualization for BIM, AEC and medicine
+Graphics Software for Web-based BIM, Engineering and Medicine
 
 * [xeolabs.com](https://xeolabs.com)
 * [xeokit.io](https://xeokit.io)
