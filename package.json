@@ -1,5 +1,5 @@
 {
-  "name": "xeolabs.io",
+  "name": "xeolabs.com",
   "version": "1.0.0",
   "description": "xeolabs website",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xeolabs/xeolabs.io.git"
+    "url": "git+https://github.com/xeolabs/xeolabs.com.git"
   },
   "author": "Lindsay Kay",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/xeolabs/xeolabs.io/issues"
+    "url": "https://github.com/xeolabs/xeolabs.com/issues"
   },
-  "homepage": "https://github.com/xeolabs/xeolabs.io#readme",
+  "homepage": "https://github.com/xeolabs/xeolabs.com#readme",
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-file-include": "^2.1.1",
