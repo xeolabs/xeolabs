@@ -1,6 +1,6 @@
 # xeolabs
 
-Graphics Software for Web-based BIM, Engineering and Medicine
+Open source graphics libraries for browser-based applications in BIM, AECO and medicine
 
 * [xeolabs.com](https://xeolabs.com)
 * [xeokit.io](https://xeokit.io)
