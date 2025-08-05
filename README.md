@@ -5,7 +5,7 @@ Open source graphics libraries for browser-based applications in BIM, AECO and m
 * [xeolabs.com](https://xeolabs.com)
 * [xeokit.io](https://xeokit.io)
 
-* <br>
+<br>
 
 [![](https://xeokit.io/img/features/xeokit-viewer.png)](https://xeokit.github.io/xeokit-bim-viewer/app/index.html?projectId=OTCConferenceCenter&tab=storeys)
 
